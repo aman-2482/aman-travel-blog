@@ -29,7 +29,7 @@ eknrfoirnvo
 * eknoir
 * klvnk
 
-![my image]('photos/first blog/images.jpeg')
+![image description](aman-travel-blog\public\photos\first blog\images.jpeg)
 
 ## colclusion
 
