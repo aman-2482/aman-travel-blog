@@ -28,7 +28,8 @@ eknrfoirnvo
 
 * eknoir
 * klvnk
-![my image]('\photos\first blog\images.jpeg')
+
+![my image]('/photos/first blog/images.jpeg')
 
 ## colclusion
 
