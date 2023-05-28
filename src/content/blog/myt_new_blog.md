@@ -29,7 +29,7 @@ eknrfoirnvo
 * eknoir aa
 * klvnk
 
-![image description](\public\photos\first blog\images.jpeg)
+![image description]( \public\photos\first blog\images.jpeg)
 
 ## colclusion
 
