@@ -24,7 +24,7 @@ const socialIcons: SocialIcons = {
     ></path>
   </svg>`,
   Instagram: `<svg
-    xmlns="https://www.instagram.com/anonymous_user__03/"
+    xmlns="https://www.instagram.com/"
     class="icon-tabler"
     stroke-linecap="round"
     stroke-linejoin="round"
