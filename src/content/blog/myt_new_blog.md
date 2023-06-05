@@ -21,7 +21,7 @@ Artificial Intelligence (AI) has rapidly evolved to become an integral part of o
 
 ## 1. Autonomous Weapons:
 
-![]("E:\blogpr\aman-travel-blog\public\photos\first blog\aaa (1).png")
+![](E:\blogpr\aman-travel-blog\public\photos\first blog\aaa (1).png)
 
 One of the most concerning applications of AI is the development of autonomous weapons. These lethal machines have the ability to make decisions and act without human intervention. While the idea of machines replacing soldiers on the battlefield might sound appealing from a strategic standpoint, it raises ethical concerns about accountability, collateral damage, and the potential for misuse. The risk of AI-powered weapons falling into the hands of terrorists or rogue nations poses a grave threat to global security.
 
