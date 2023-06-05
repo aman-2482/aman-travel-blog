@@ -12,7 +12,7 @@ ogImage: 'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.
 </g>
 
 <g opacity="0.3">
-<path d="E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png">a</path>
+<path d="E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png"></path>
 
 description: 'Know more about drawbacks of AI'
 ---
