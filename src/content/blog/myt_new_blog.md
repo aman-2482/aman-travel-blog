@@ -12,6 +12,8 @@ description: 'Know more about drawbacks of AI'
 ---
 
 ## Introduction
+![Introducing AstroPaper 2.0](https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png)
+
 
 Artificial Intelligence (AI) has rapidly evolved to become an integral part of our daily lives, revolutionizing various industries and bringing unprecedented advancements. However, amidst the marvels of AI, there lies a darker side – the deadly features that can pose significant threats if they fall into the wrong hands. In this blog, we will explore some of the alarming aspects of AI that demand our attention and caution.
 
