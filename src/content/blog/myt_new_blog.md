@@ -12,6 +12,8 @@ description: 'Know more about drawbacks of AI'
 ---
 
 ## Introduction
+<!-- ![Introducing AstroPaper 2.0](aman-travel-blog\public\photos\first blog\Cybersecurity V 1.png) -->
+
 ![Introducing AstroPaper 2.0](aman-travel-blog\public\photos\first blog\Cybersecurity V 1.png)
 
 
