@@ -8,8 +8,6 @@ draft: false
 
 ogImage: 'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
 
-<path d="E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png"></path>
-
 description: 'Know more about drawbacks of AI'
 ---
 
