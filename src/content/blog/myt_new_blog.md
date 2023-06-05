@@ -14,7 +14,7 @@ description: 'Know more about drawbacks of AI'
 ## Introduction
 <!-- ![Introducing AstroPaper 2.0](aman-travel-blog\public\photos\first blog\Cybersecurity V 1.png) -->
 
-![](E:\blogpr\aman-travel-blog\public\photos\first blog\aaa (2).png)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unesco.org%2Fen%2Fartificial-intelligence&psig=AOvVaw0oF9RCh41vmIpBRfIamdYc&ust=1686071924808000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCRxcTRrP8CFQAAAAAdAAAAABAO)
 
 
 Artificial Intelligence (AI) has rapidly evolved to become an integral part of our daily lives, revolutionizing various industries and bringing unprecedented advancements. However, amidst the marvels of AI, there lies a darker side – the deadly features that can pose significant threats if they fall into the wrong hands. In this blog, we will explore some of the alarming aspects of AI that demand our attention and caution.
