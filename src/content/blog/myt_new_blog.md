@@ -5,14 +5,10 @@ pubDatetime: 2022-09-21T05:17:19Z
 postSlug: my-first-blog
 featured: true
 draft: false
-tags:
-    - myfirdt
-    - second tag
-ogImage: 'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
-description: 'my description'
----
 
-## Table contents
+ogImage: 'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
+description: 'Know more about drawbacks of AI'
+---
 
 ## Introduction
 
