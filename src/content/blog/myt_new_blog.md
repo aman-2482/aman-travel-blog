@@ -7,11 +7,7 @@ featured: true
 draft: false
 
 ogImage: 'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
-<path d="M88.5,485.36a1.06,1.06,0,0,1-.74-.3l-15.5-14.83a1.06,1.06,0,0,1,0-1.54l15.49-15a1.07,1.07,0,0,1,1.52,0,1.08,1.08,0,0,1,0,1.52l-14.7,14.25,14.69,14.06a1.07,1.07,0,0,1,0,1.52A1.1,1.1,0,0,1,88.5,485.36Z" fill="#fff"/>
 
-</g>
-
-<g opacity="0.3">
 <path d="E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png"></path>
 
 description: 'Know more about drawbacks of AI'
