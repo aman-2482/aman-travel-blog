@@ -10,7 +10,7 @@ export const SITE: Site = {
   postPerPage: 3,
 };
 <a href='http://www.freevisitorcounters.com'>Get Visitor Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=a5cf6e888420e3c41a748653a6eb53b39fc477d5'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1041255/t/0"></script>
+ <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1041255/t/0"></script>
 
 export const LOCALE = ["en-EN"]; // set to [] to use the environment default
 
