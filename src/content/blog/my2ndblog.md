@@ -2,7 +2,7 @@
 title: Freelancing websites
 author: Aman
 pubDatetime: 2022-09-21T05:17:19Z
-postSlug: my-first-blog
+postSlug: my-next-blog
 featured: true
 draft: false
 
