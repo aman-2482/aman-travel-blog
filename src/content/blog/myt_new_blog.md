@@ -1,7 +1,7 @@
 ---
 title: ARTIFICIAL INTELLIGENCE
 author: Aman
-pubDatetime: 2022-09-21T05:17:19Z
+pubDatetime: 2023-05-21T05:17:19Z
 postSlug: my-first-blog
 featured: true
 draft: false
