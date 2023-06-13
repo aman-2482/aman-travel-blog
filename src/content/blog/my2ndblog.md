@@ -1,12 +1,12 @@
 ---
-author: Sat Naing
-pubDatetime: 2023-01-30T15:57:52.737Z
-title: Top Freelancing Website
-postSlug: Freelancing Website
+title: Freelancing websites
+author: Aman
+pubDatetime: 2022-09-21T05:17:19Z
+postSlug: my-first-blog
 featured: true
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
-tags:
-  - release
+draft: false
+
+ogImage: 'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
 description: Discover the perfect freelance talent or showcase your skills on our dynamic freelancing platform
 
 ## Introduction:
