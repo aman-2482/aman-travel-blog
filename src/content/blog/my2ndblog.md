@@ -9,7 +9,7 @@ tags:
   - release
 description: Discover the perfect freelance talent or showcase your skills on our dynamic freelancing platform
 
-## Introduction
+## Introduction:
 
 ![](https://img.freepik.com/free-vector/freelancer-flexible-remote-work-locations-isometric-flowchart-with-shared-office-writing-home-outdoor-with-laptop-vector-illustration_1284-30324.jpg?w=2000)
 
