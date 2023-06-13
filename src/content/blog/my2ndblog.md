@@ -64,7 +64,7 @@ Upwork is a leading freelancing website that connects businesses with talented p
 
 8. Manage Payments: Upwork provides a secure payment system where clients fund the project in advance. As you complete project milestones or the entire project, submit your work for review and request payment release. Upwork handles the payment process and ensures that you receive your earnings.
 
-9. Maintain Professionalism and Quality: Uphold professionalism throughout the project, meeting deadlines, responding promptly to client queries, and delivering work of exceptional quality. Building a positive reputation and receiving good reviews will help you attract more clients in the future.
+9. Maintain  Professionalism and Quality: Uphold professionalism throughout the project, meeting deadlines, responding promptly to client queries, and delivering work of exceptional quality. Building a positive reputation and receiving good reviews will help you attract more clients in the future.
 
 10. Cultivate Relationships and Grow: Foster long-term relationships with clients by providing exceptional service. Satisfied clients may offer you additional projects or recommend you to others. Continuously update your skills and seek opportunities for growth within your field.
 
