@@ -8,7 +8,7 @@ draft: false
 
 ogImage: 'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
 
-description: 'Discover the perfect freelance talent or showcase your skills on our dynamic freelancing platform'
+description: 'Discover the perfect freelance talent or showcase your skills on  dynamic freelancing platforms'
 ---
 ## Introduction
 
