@@ -1,13 +1,13 @@
 ---
-author: aman
-pubDatetime: 2023-06-13T15:22:00Z
-title: Navigating the Job Market: Expert Career Advice and Job Search Strategies
-postSlug: carrer and jobs
+title: Gain expert career advice and job search strategies
+author: Aman
+pubDatetime: 2023-05-21T05:17:19Z
+postSlug: my-third-blog
 featured: true
 draft: false
-tags:
-  - docs
-ogImage: "E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png"
+
+ogImage: 'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
+
 
 description:
  'Gain expert career advice and job search strategies in our blog post to navigate the competitive job market successfully. Learn resume tailoring, online platform leverage, and networking techniques to land your dream job.'
