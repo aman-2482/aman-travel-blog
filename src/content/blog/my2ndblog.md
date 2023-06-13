@@ -10,7 +10,6 @@ tags:
 description: Discover the perfect freelance talent or showcase your skills on our dynamic freelancing platform
 
 ## Introduction:
-<!-- ![Introducing AstroPaper 2.0](aman-travel-blog\public\photos\first blog\Cybersecurity V 1.png) -->
 
 ![](https://c0.wallpaperflare.com/preview/483/913/258/advanced-ai-anatomy-artificial.jpg)
 
