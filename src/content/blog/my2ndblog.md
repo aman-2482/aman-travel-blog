@@ -9,7 +9,7 @@ tags:
   - release
 description: Discover the perfect freelance talent or showcase your skills on our dynamic freelancing platform
 
-##  Introduction:
+## Introduction:
 
 ![]()
 
