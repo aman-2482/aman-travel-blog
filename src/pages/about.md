@@ -18,5 +18,8 @@ We believe that being well-informed is not just a privilege, but a responsibilit
 So, whether you're looking to catch up on the latest political developments, get inspired by amazing human achievements, or simply be entertained by the lighter side of news, our blogging platform has it all. Join us on this exhilarating journey as we explore the ever-changing landscape of trending news across the world.
 
 
- #TrendingNews#GlobalUpdates#BreakingNews#WorldEvets#CurrentAffair#HotTopics#NewsAlert#InsightfulAnalysis#InformedOpinions #GlobalConversations #MustReadArticle #TopHeadlines#NewsRoundup#LatestDevelopments#DailyDigest
- #NewsBytes #WorldNews #NewsExplained #HotOffThePress #NewsWorthy
+ #TrendingNews      #GlobalUpdates     #NewsAlerts
+
+  #InformedOpinions #GlobalConversations #MustReadArticle   
+  
+    #NewsRoundup     #NewsBytes      #WorldNews                            #NewsExplained   #HotOffThePress     #NewsWorthy
