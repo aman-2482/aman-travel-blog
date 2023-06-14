@@ -6,14 +6,14 @@ postSlug: my-fourth-blog
 featured: true
 draft: false
 tags:
-- StrangeGadgets
-- WorldByStorm
-- InnovativeTech
-- UnusualGadgets
-- TechTrends
-- UniqueInventions
-- GadgetEnthusiast
-- TechObsession
+ - StrangeGadgets
+ - WorldByStorm
+ - InnovativeTech
+ - UnusualGadgets
+ - TechTrends
+ - UniqueInventions
+ - GadgetEnthusiast
+ - TechObsession
 
 ogImage: 'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
 
