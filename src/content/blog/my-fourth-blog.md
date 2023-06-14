@@ -14,6 +14,7 @@ tags:
    -  UniqueInventions
    -  GadgetEnthusiast
    -  TechObsession
+   - google
 
 ogImage: 'E:\blogpr\aman  - travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
 
