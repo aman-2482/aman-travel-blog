@@ -5,6 +5,15 @@ pubDatetime: 2023-05-21T05:17:19Z
 postSlug: my-first-blog
 featured: true
 draft: false
+tags:
+- AIWriting
+- AIContent
+- ContentAutomation
+- AIWriter
+- DigitalWriting
+- BlogAI
+- AIBlog
+
 
 ogImage: 'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
 
