@@ -19,8 +19,7 @@ Welcome to the intriguing world of strange gadgets, where innovation knows no bo
 
 ## 1.  Levitating Bluetooth Speaker:
 
-![](https://m.media-amazon.com/images/I/51uwboN6DhL.jpg)
-![](https://amzn.to/3oWsIrg)
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gadgets09eb-21&language=en_IN&marketplace=amazon&region=IN&placement=B07V7S6KJ8&asins=B07V7S6KJ8&linkId=af5224acc9772f4d8f28b304afc2a059&show_border=true&link_opens_in_new_window=true"></iframe>
 
 Description: Imagine a speaker that defies gravity, creating a mesmerizing audio experience. This levitating Bluetooth speaker hovers elegantly in mid-air while emitting crystal-clear sound. Equipped with advanced magnetic levitation technology, it effortlessly suspends itself above a sleek base. As it defies gravity, you'll witness a visual spectacle and experience sound in a whole new dimension. With seamless connectivity to your devices, this gadget transforms any room into a futuristic audio haven.
 
