@@ -6,11 +6,11 @@ postSlug: my-third-blog
 featured: true
 draft: false
 tags:
-- JobHunting
-- CareerSuccess
-- CareerGuidance
-- JobSearchHelp
-- JobSeekers
+   - JobHunting
+   - CareerSuccess
+   - CareerGuidance
+   - JobSearchHelp
+   - JobSeekers
 
 ogImage: 'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
 

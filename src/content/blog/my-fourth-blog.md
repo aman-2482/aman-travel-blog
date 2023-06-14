@@ -6,16 +6,16 @@ postSlug: my-fourth-blog
 featured: true
 draft: false
 tags:
- - StrangeGadgets
- - WorldByStorm
- - InnovativeTech
- - UnusualGadgets
- - TechTrends
- - UniqueInventions
- - GadgetEnthusiast
- - TechObsession
+   -  StrangeGadgets
+   -  WorldByStorm
+   -  InnovativeTech
+   -  UnusualGadgets
+   -  TechTrends
+   -  UniqueInventions
+   -  GadgetEnthusiast
+   -  TechObsession
 
-ogImage: 'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
+ogImage: 'E:\blogpr\aman  - travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
 
 description: 'Discovering the Extraordinary: 5 Strange Gadgets Taking the World by Storm'
 ---
