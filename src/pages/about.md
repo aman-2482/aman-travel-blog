@@ -3,34 +3,16 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Welcome to our blogging website, your ultimate destination for the latest and most captivating news from around the world. We pride ourselves on delivering up-to-the-minute updates on the trending topics that matter to you. Whether you're a news junkie, a curious mind, or simply someone who loves staying informed, we've got you covered.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+At our blogging platform, we understand the importance of staying ahead of the curve. That's why our team of dedicated writers and journalists works tirelessly to bring you breaking news, thought-provoking analysis, and fascinating insights from every corner of the globe. From politics to technology, entertainment to science, sports to culture – we leave no stone unturned in our quest to provide you with a diverse range of captivating stories.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Our aim is to empower you with knowledge and spark meaningful conversations. We strive to present a balanced perspective on the stories that shape our world, encouraging critical thinking and open dialogue among our readers. Our blogging platform serves as a hub for people from all walks of life to come together and share their thoughts, opinions, and experiences.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+Beyond merely reporting news, we go the extra mile to offer in-depth features, interviews, and exclusive content that delve deeper into the stories that resonate with our readers. Our commitment to quality journalism and ethical reporting ensures that the information you find on our website is accurate, reliable, and trustworthy.
 
-## Tech Stack
+In addition to our written content, we also embrace multimedia storytelling. Through captivating images, compelling videos, and engaging podcasts, we bring the news to life, allowing you to experience the stories in a more immersive and engaging way.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+We believe that being well-informed is not just a privilege, but a responsibility. By staying connected with us, you will have your finger on the pulse of global events, trends, and developments. Our blogging website aims to be your go-to source for staying updated, gaining insights, and being part of the global conversation.
 
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+So, whether you're looking to catch up on the latest political developments, get inspired by amazing human achievements, or simply be entertained by the lighter side of news, our blogging platform has it all. Join us on this exhilarating journey as we explore the ever-changing landscape of trending news across the world.
