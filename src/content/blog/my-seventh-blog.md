@@ -6,7 +6,19 @@ postSlug: my-seventh-blog
 featured: true
 draft: false
 tags:
-  - TradingInIndia StockMarket OptionsTrading FuturesTrading InvestmentOpportunities RiskManagement PriceDiscovery MarketEfficiency Hedging Speculation LeverageMarginTrading CashSettlement SEBIProfessionalGuidance Diversificatin
+  - TradingInIndia 
+  - StockMarket 
+  - OptionsTrading 
+  - FuturesTrading 
+  - InvestmentOpportunities 
+  - RiskManagement 
+  - PriceDiscovery 
+  - MarketEfficiency 
+  - Hedging Speculation 
+  - LeverageMarginTrading 
+  - CashSettlement 
+  - SEBIProfessionalGuidance 
+  - Diversificatin
 
 
 ogImage: 'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
