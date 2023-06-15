@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to Trading in India Exploring Stocks, Options, and Futures
 author: Aman
-pubDatetime: 2023-05-15T05:17:19Z
+pubDatetime: 2023-06-15T05:17:19Z
 postSlug: my-seventh-blog
 featured: true
 draft: false
