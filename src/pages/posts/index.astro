@@ -13,7 +13,7 @@ const sortedPosts = getSortedPosts(posts);
 const totalPages = getPageNumbers(sortedPosts.length);
 
 const paginatedPosts = sortedPosts.slice(0, SITE.postPerPage);
-<link rel="shortcut icon" type="image/png" href="https://drive.google.com/file/d/1tWIj-J_GD7Oddgpk4x15W4I_L9fwGoQ6/view?usp=drivesdk"/>
+ <link rel="shortcut icon" type="image/png" href="https://drive.google.com/file/d/1tWIj-J_GD7Oddgpk4x15W4I_L9fwGoQ6/view?usp=drivesdk"/>
 ---
 
 <Posts posts={paginatedPosts} pageNum={1} totalPages={totalPages.length} />
