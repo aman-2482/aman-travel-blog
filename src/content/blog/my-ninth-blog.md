@@ -19,7 +19,7 @@ tags:
 
 ogImage: ''
 
-description: 'In today's fast paced and demanding world, maintaining a healthy work-life balance has become more critical than ever.'
+description: "In today's fast paced and demanding world, maintaining a healthy work-life balance has become more critical than ever."
 ---
 
 ## Introduction
