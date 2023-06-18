@@ -5,6 +5,19 @@ pubDatetime: 2023-06-15T05:17:19Z
 postSlug: my-seventh-blog
 featured: true
 draft: false
+tags:
+  -  MentalHealthAwareness
+  -  WorkLifeIntegration
+  -  HolisticHealth
+  -  MentalWellness
+  -  WorkplaceProductivity
+  -  EmployeeWellbeing
+  -  MentalHealthSupport
+  -  BalanceInLife
+  -  HealthyMindset
+  -  PrioritizeSelfCare
+  -  WorkplaceHappiness
+
 
 ogImage:  'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
 
