@@ -45,7 +45,6 @@ Take care of your mental and physical well-being. Engage in activities that rech
 ## 5.  Establish Routines: 
 Create daily routines that incorporate both work and personal activities. Plan your time wisely, allowing for breaks, leisure activities, and quality time with loved ones. Having a structured routine can increase productivity and create a sense of stability.
 
- Some more  solutions to remove stress are:
 
 ## 1. Yoga for Mind-Body Connection:
  Engaging in regular yoga practice can help reduce stress, improve focus, and promote a sense of calmness. It combines physical movement, breathing exercises, and mindfulness, creating a powerful synergy that enhances mental well-being.
