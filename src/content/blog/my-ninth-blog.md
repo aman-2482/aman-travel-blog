@@ -24,6 +24,7 @@ description: 'In today's fast paced and demanding world, maintaining a healthy w
 
 ## Introduction
 
+
 Finding a balance between work and personal life can often feel like a never-ending juggling act. The pressures of professional responsibilities, coupled with personal commitments, can leave us feeling overwhelmed, stressed, and even burned out. However, prioritizing our mental health and striving for a harmonious work-life balance is vital for our overall well-being and long-term success. In this blog, we will delve into the importance of mental health in relation to work-life balance and provide you with actionable tips to help achieve equilibrium in your life.
  
 ## the Link Between Mental Health and Work Life Balance:
