@@ -86,7 +86,6 @@ Cultivating a gratitude practice can significantly impact your overall well-bein
 
 ## 12. Prioritize Quality Time:
  Make quality time with loved ones a priority. Whether it's scheduling regular date nights, family outings, or simply having meaningful conversations, nurturing your relationships outside of work strengthens your support system and brings a sense of balance and fulfillment to your life.
-
 Remember, finding work-life balance is a personal journey, and what works for one person may not work for another. Experiment with these tips, adapt them to your unique circumstances, and discover what combination of strategies helps you create a fulfilling and harmonious work-life balance.
 
 
