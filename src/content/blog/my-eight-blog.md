@@ -14,9 +14,9 @@ tags:
   -  EmployeeWellbeing
   -  MentalHealthSupport
   -  BalanceInLife
-  - HealthyMindset
-  - PrioritizeSelfCare
-  - WorkplaceHappiness
+  -  HealthyMindset
+  -  PrioritizeSelfCare
+  -  WorkplaceHappiness
 
 
 ogImage:  ''
