@@ -43,7 +43,7 @@ Take care of your mental and physical well-being. Engage in activities that rech
  Recognize your limitations and don't be afraid to say no when your plate is already full. Setting realistic expectations and avoiding overcommitment will help prevent burnout and promote a healthier work-life balance.
 
 ## 5. Establish Routines: 
-Create daily routines that incorporate both work and personal activities. Plan your time wisely, allowing for breaks, leisure activities, and quality time with loved ones. Having a structured routine can increase productivity and create a sense of stability.
+ Create daily routines that incorporate both work and personal activities. Plan your time wisely, allowing for breaks, leisure activities, and quality time with loved ones. Having a structured routine can increase productivity and create a sense of stability.
 
 
 ## 6. Yoga for Mind-Body Connection:
