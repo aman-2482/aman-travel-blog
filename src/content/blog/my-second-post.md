@@ -6,7 +6,7 @@ postSlug: my-next-blog
 featured: true
 draft: false
 tags:
-   -  ContentAI
+   - ContentAI
    - AIFreelancing
    - FreelanceWriting
    - AIWriter
