@@ -6,7 +6,17 @@ postSlug: my-seventh-blog
 featured: true
 draft: false
 tags:
-  - 
+  -  MentalHealthAwareness
+  -  WorkLifeIntegration
+  -  HolisticHealth
+  -  MentalWellness
+  -  WorkplaceProductivity
+  -  EmployeeWellbeing
+  -  MentalHealthSupport
+  -  BalanceInLife
+  - HealthyMindset
+  - PrioritizeSelfCare
+  - WorkplaceHappiness
 
 
 ogImage:  'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
