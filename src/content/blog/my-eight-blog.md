@@ -19,7 +19,7 @@ tags:
   - WorkplaceHappiness
 
 
-ogImage:  'E:\blogpr\aman-travel-blog\public\photos\first blog\_Autonomous Wea 0.png'
+ogImage:  ''
 
 description: ' In today's fast-paced and demanding world, maintaining a healthy work-life balance has become more critical than ever. This blog explores the crucial link between mental health and work-life balance, and offers valuable insights and practical tips to help you navigate the challenges of balancing your professional and personal life, while safeguarding your mental well-being.'
 ---
