@@ -34,7 +34,7 @@ Our mental health and work-life balance are deeply interconnected. Neglecting on
 Establish clear boundaries between work and personal life. Define specific work hours and commit to unplugging during your personal time. Avoid checking emails or engaging in work-related activities outside of designated hours.
 
 
-## 2. Prioritize Self-Care: 
+## 2. Prioritize Self Care: 
 Take care of your mental and physical well-being. Engage in activities that recharge you, such as exercise, hobbies, spending time with loved ones, or pursuing interests outside of work. Prioritize self-care practices like meditation, journaling, or simply taking breaks throughout the day to relax and rejuvenate.
 
 ## 3. Delegate and Seek Support:
