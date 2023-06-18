@@ -32,7 +32,7 @@ The Link Between Mental Health and Work-Life Balance:
 Our mental health and work-life balance are deeply interconnected. Neglecting one aspect can have a detrimental impact on the other. Chronic work-related stress, long hours, and a lack of time for personal activities can all take a toll on our mental well-being. Conversely, when we prioritize our mental health and make time for self-care, it enhances our ability to handle work pressures, boosts productivity, and fosters a more fulfilling personal life.
 
 
-##  Tips to Balance Work and Personal Life:
+## Tips to Balance Work and Personal Life:
 
 ## 1. Set Clear Boundaries:
  Establish clear boundaries between work and personal life. Define specific work hours and commit to unplugging during your personal time. Avoid checking emails or engaging in work-related activities outside of designated hours.
