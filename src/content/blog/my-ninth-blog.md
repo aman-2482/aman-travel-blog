@@ -2,7 +2,6 @@
 title: Mental Health And Work Life Balance
 author: Aman
 pubDatetime: 2023-06-13T08:17:19Z
-postSlug: my-ninth-blog
 featured: false
 draft: false
 tags:
