@@ -10,10 +10,10 @@
     --color-card: 230, 230, 230;
     --color-card-muted: 205, 205, 205;
     --color-border: 236, 233, 233;
-    background-image: url("https://media.giphy.com/media/rrsEJXL7Ut8AM00zcB/giphy.gif");
+    background-image: url("https://media.giphy.com/media/mS1coUr0U8bSD4iKbM/giphy.gif");
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: left center;
+    background-position: right center;
     background-attachment: fixed;
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 1);
   }
@@ -24,10 +24,10 @@
     --color-card-muted: 138, 51, 2;
     --color-border: 171, 75, 8;
     background-color: black;
-    background-image: url("https://media.giphy.com/media/mS1coUr0U8bSD4iKbM/giphy.gif");
+    background-image: url("https://media.giphy.com/media/tRaDfrYxf0XXX6Htjz/giphy.gif");
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: left center;
+    background-position: right center;
     background-attachment: fixed;
   }
 
