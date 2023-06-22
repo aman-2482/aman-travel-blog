@@ -17,7 +17,6 @@
     background-attachment: fixed;
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 1);
   }
-
   html[data-theme="dark"] {
     --color-text-base: 234, 237, 243;
     --color-accent: 255, 107, 1;
@@ -29,8 +28,8 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right center;
-    background-attachment: fixed;  
-      }
+    background-attachment: fixed;
+  }
 
   #sun-svg,
   html[data-theme="dark"] #moon-svg {
@@ -126,7 +125,7 @@
   ::-webkit-scrollbar-thumb:hover {
     @apply bg-skin-card-muted;
   }
- }
+}
 
 @layer components {
   .display-none {
