@@ -127,7 +127,7 @@
   }
 }
 
-@layer components {
+ @layer components {
   .display-none {
     @apply hidden;
   }
