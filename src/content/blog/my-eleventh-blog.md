@@ -6,7 +6,7 @@ postSlug: my-11th-blog
 featured: true
 draft: false
 tags:
-  - #FitLife
+  - FitLife
   - HealthyLiving
   - WellnessJourney
   - FitnessGoals
@@ -63,6 +63,7 @@ Stress has a profound impact on our physical and mental well-being. Finding heal
 ## 5. Stay Hydrated:
 
 ![](https://www.bing.com/images/create/woman-drinking-glass-of-water/6495ffd14e534a3b91ba4ad67b4e413a?id=AyziLI%2fLE85hX6fAjuYSTQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay)
+
 Water is the elixir of life, and staying hydrated is crucial for your well-being. Drink an adequate amount of water throughout the day to support proper bodily functions, maintain energy levels, and promote healthy digestion. Carry a reusable water bottle with you to ensure you can hydrate wherever you go. Adequate hydration also aids in weight management, improves skin health, and enhances cognitive function.
 
 ## 6. Cultivate Healthy Relationships:
