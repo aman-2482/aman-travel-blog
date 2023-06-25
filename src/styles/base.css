@@ -18,7 +18,7 @@
     --color-fill: 47, 55, 65;
     --color-text-base: 230, 230, 230;
     --color-accent: 26, 217, 217;
-@@ -20,11 +21,11 @@
+
     --color-border: 59, 70, 85;
   }
   #sun-svg,
@@ -32,7 +32,7 @@
     display: block;
   }
   body {
-@@ -36,7 +37,8 @@
+
     @apply max-w-3xl mx-auto px-4;
   }
   a {
