@@ -1,102 +1,98 @@
 ---
-import { SITE } from "@config";
-import "@styles/base.css";
-
-const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
-
+import { SITE } from "src/config";
+import "../styles/base.css";
 export interface Props {
   title?: string;
   author?: string;
   description?: string;
   ogImage?: string;
 }
-
 const {
   title = SITE.title,
   author = SITE.author,
   description = SITE.desc,
   ogImage = SITE.ogImage,
 } = Astro.props;
-
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-
 const socialImageURL = new URL(
   ogImage ? ogImage : SITE.ogImage,
   Astro.url.origin
-).href;
+);
 ---
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/faviconn.svg" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="canonical" href={canonicalURL} />
-    <meta name="generator" content={Astro.generator} />
+    <meta name="generator" content={Astro.generator} />
     <!-- General Meta Tags -->
-    <title>{title} </title>
+    <title>{title}</title>
     <meta name="title" content={title} />
     <meta name="description" content={description} />
     <meta name="author" content={author} />
-    <link rel="sitemap" href="/sitemap-index.xml" />
-
     <!-- Open Graph / Facebook -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:image" content={socialImageURL} />
-
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content={canonicalURL} />
     <meta property="twitter:title" content={title} />
     <meta property="twitter:description" content={description} />
     <meta property="twitter:image" content={socialImageURL} />
-
     <!-- Google Font -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
+      rel="preload"
       href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&display=swap"
-      rel="stylesheet"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'"
     />
 
-    {
-      // If PUBLIC_GOOGLE_SITE_VERIFICATION is set in the environment variable,
-      // include google-site-verification tag in the heading
-      // Learn more: https://support.google.com/webmasters/answer/9008080#meta_tag_verification&zippy=%2Chtml-tag
-      googleSiteVerification && (
-        <meta
-          name="google-site-verification"
-          content={googleSiteVerification}
-        />
-      )
-    }
+    <script is:inline>
+      const primaryColorScheme = "none"; // "light" | "dark" | "none"
 
+      const darkModeMediaQuery = window.matchMedia(
+        "(prefers-color-scheme: dark)"
+      ).matches;
+
+      // Get theme data from local storage
+      const currentTheme = localStorage.getItem("theme");
+
+      let theme;
+
+      // Set theme to 'theme-dark' if currentTheme is 'dark'
+      if (currentTheme) {
+        theme = currentTheme === "dark" ? "theme-dark" : "";
+      } else {
+        // If primary color scheme is dark
+        // or primary color scheme is not set and prefers-color-scheme is dark
+        // choose dark mode
+        if (
+          primaryColorScheme === "dark" ||
+          (primaryColorScheme === "none" && darkModeMediaQuery)
+        ) {
+          theme = "theme-dark";
+        }
+        // If primary color scheme is light
+        // choose light mode
+        else if (primaryColorScheme === "light") {
+          theme = "";
+        }
+        // fallback to prefers-color-scheme
+        else {
+          theme = darkModeMediaQuery ? "theme-dark" : "";
+        }
+      }
+
+      // Put dark class on html tag to enable dark mode
+      document.querySelector("html").className = theme;
+    </script>
     <script is:inline src="/toggle-theme.js"></script>
   </head>
   <body>
-
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1881974231032195"
-     crossorigin="anonymous"></script>
-<!-- ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1881974231032195"
-     data-ad-slot="3892174515"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-
-
-
-
-
     <slot />
-  </body>
-</html>
