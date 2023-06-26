@@ -26,7 +26,7 @@ description: 'Stay up-to-date with the latest developments and insights on the C
 ---
 ## Introduction
 
-![](https://m.economictimes.com/thumb/msid-81666434,width-1200,height-900,resizemode-4,imgsize-224027/virus.jpg)
+![](https://s3.amazonaws.com/cms.ipressroom.com/173/files/20224/6287efab2cfac2722d8cb83b_COVID-19+image/COVID-19+image_a01f4bbd-8224-4b44-a3b8-32d227a1899d-prv.jpg)
 
 The COVID-19 pandemic has had a significant impact on India, as well as the rest of the world. With its vast population and diverse healthcare infrastructure, India has faced unique challenges in managing the spread of the virus. This blog post aims to provide you with an overview of the current state of affairs globally, with a specific focus on India. By understanding the latest updates and developments, we can better navigate this ever-changing landscape and protect ourselves and our communities.
 
