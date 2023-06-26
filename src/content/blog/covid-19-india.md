@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Updates Navigating the Ever-Changing Landscape in India and Worldwide
+title: COVID-19 Updates Navigating the Ever-Changing Landscape in India.
 author: Aman
 pubDatetime: 2023-06-26T08:17:19Z
 postSlug: covid 19

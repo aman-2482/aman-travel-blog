@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Updates, Navigating the Ever-Changing Landscape
+title: COVID-19 Updates, Navigating the Ever-Changing Landscape across the world.
 author: Aman
 pubDatetime: 2023-06-26T08:17:19Z
 postSlug: covid 19
