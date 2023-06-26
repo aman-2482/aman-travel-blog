@@ -108,6 +108,7 @@
   ::-webkit-scrollbar-thumb:hover {
     @apply bg-skin-card-muted;
   }
+  
 }
 @layer components {
   .display-none {
