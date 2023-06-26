@@ -16,8 +16,8 @@
     --color-fill: 47, 55, 65;
     --color-text-base: 230, 230, 230;
     --color-accent: 26, 217, 217;
-Expand All
-	@@ -20,11 +21,11 @@
+    --color-card: 63, 75, 90;
+    --color-card-muted: 89, 107, 129;
     --color-border: 59, 70, 85;
   }
   #sun-svg,
@@ -29,8 +29,11 @@ Expand All
     display: block;
   }
   body {
-Expand All
-	@@ -36,7 +37,8 @@
+    @apply font-mono bg-skin-fill text-skin-base min-h-screen flex flex-col 
+    selection:bg-skin-accent selection:text-skin-inverted selection:bg-opacity-70;
+  }
+  section,
+  footer {
     @apply max-w-3xl mx-auto px-4;
   }
   a {
