@@ -1,7 +1,7 @@
 ---
 title: The Power of Mindfulness How to Reduce Stress and Improve Your Well-being
 author: Aman
-pubDatetime: 2023-06-26T08:17:19Z
+pubDatetime: 2023-06-28T08:17:19Z
 postSlug: reduce stress
 featured: true
 draft: false
