@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://www.aiaman.tech/",
   author: "Aman Chaudhary",
   desc: "A minimal, responsive and SEO-friendly Aman chaudhary blog theme.",
-  title: "BLOGPOINT",
+  title: "Blogpoint",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
