@@ -12,7 +12,7 @@
     --color-border: 236, 233, 233;
     background-image: url("https://media.giphy.com/media/XiO62waDsyfyU/giphy.gif");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: var(--color-border);
     background-position: right center;
     background-attachment: fixed;
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 1);
