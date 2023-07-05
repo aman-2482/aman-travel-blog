@@ -6,11 +6,10 @@ const blog = defineCollection({
   schema: blogSchema,
 });
 
-export const collections = { blog };
 
 const bloger = defineCollection({
   schema: blogerSchema,
 });
 
-export const collections = { bloger };
+export const collections = { bloger,blog };
 
