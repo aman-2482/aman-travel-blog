@@ -12,7 +12,7 @@ import type { CollectionEntry } from "astro:content";
 export interface Props {
   pageNum: number;
   totalPages: number;
-  sports: CollectionEntry<"bloger">[];
+  sports: CollectionEntry<"blog">[];
 }
 
 const { pageNum, totalPages, sports } = Astro.props;
