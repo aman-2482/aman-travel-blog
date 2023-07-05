@@ -12,4 +12,4 @@ const bloger = defineCollection({
   schema: blogerSchema,
 });
 
-export const collections = { bloger };
+export const collection = { bloger };
