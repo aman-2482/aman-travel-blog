@@ -11,4 +11,4 @@ const bloger = defineCollection({
   schema: blogerSchema,
 });
 
-export const collection = { blog };
+export const collection = { bloger };
