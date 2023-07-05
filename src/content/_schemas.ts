@@ -30,5 +30,5 @@ export const blogerSchema = z
   })
   .strict();
 
-export type BlogerFrontmatter = z.infer<typeof blogerSchema>;
+export type blogerFrontmatter = z.infer<typeof blogerSchema>;
 
