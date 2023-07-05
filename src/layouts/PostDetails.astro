@@ -8,14 +8,14 @@ import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
 
 export interface Props {
-  post: CollectionEntry<"blog">;
+  Trendings: CollectionEntry<"blog">;
 }
 
-const { post } = Astro.props;
+const { Trendings } = Astro.props;
 
-const { title, author, description, ogImage, pubDatetime, tags } = post.data;
+const { title, author, description, ogImage, pubDatetime, tags } = Trendings.data;
 
-const { Content } = await post.render();
+const { Content } = await Trendings.render();
 
 const ogUrl = new URL(ogImage ? ogImage : `${title}.png`, Astro.url.origin)
   .href;
@@ -36,7 +36,7 @@ const ogUrl = new URL(ogImage ? ogImage : `${title}.png`, Astro.url.origin)
     </button>
   </div>
   <main id="main-content">
-    <h1 class="post-title">{title}</h1>
+    <h1 class="Trendings-title">{title}</h1>
     <Datetime datetime={pubDatetime} size="lg" className="my-2" />
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
@@ -53,7 +53,7 @@ const ogUrl = new URL(ogImage ? ogImage : `${title}.png`, Astro.url.origin)
   main {
     @apply mx-auto w-full max-w-3xl px-4 pb-12;
   }
-  .post-title {
+  .Trendings-title {
     @apply text-2xl font-semibold text-skin-accent;
   }
   .tags-container {
