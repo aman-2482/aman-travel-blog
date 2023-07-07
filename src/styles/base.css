@@ -24,13 +24,11 @@
     --color-card-muted: 138, 51, 2;
     --color-border: 171, 75, 8;
     background-color: black;
-    background-image: url("https://media.giphy.com/media/xTiTnsBqIrT8SPb4T6/giphy.gif");
+    background-image: url("https://media.giphy.com/media/iJm83BMAeXNfeqovq7/giphy.gif");
     background-repeat: no-repeat;
-    background-position: right center;
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: fixed;
   }
-
   #sun-svg,
   html[data-theme="dark"] #moon-svg {
     display: none;
@@ -45,7 +43,7 @@
   }
   section,
   footer {
-    @apply mx-auto max-w-3xl px-4;
+    @apply mx-auto max-w-6xl px-4;
   }
   a {
     @apply outline-2 outline-offset-1 outline-skin-fill 
@@ -127,7 +125,7 @@
   }
 }
 
- @layer components {
+@layer components {
   .display-none {
     @apply hidden;
   }
