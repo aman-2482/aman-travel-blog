@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/AboutLayout.astro
+layout: ../layouts/QandA.astro
 title: "QandA"
 ---
 <!DOCTYPE html>
