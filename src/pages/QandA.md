@@ -43,7 +43,7 @@ button:disabled {
     <button type="submit">Submit</button>
   </form>
 
-  <script>
+ <script>
   function renderQAs() {
     const qaContainer = document.getElementById('qaContainer');
     qaContainer.innerHTML = '';
@@ -60,12 +60,24 @@ button:disabled {
       qaItem.appendChild(question);
       qaItem.appendChild(answer);
 
-      // Remove the delete button
-      qaItem.removeChild(qaItem.querySelector('button'));
+      // Check if the current user is an admin
+      const isAdmin = document.getElementById('isAdmin').checked;
+
+      // Only show the delete button if the user is an admin
+      if (isAdmin) {
+        const deleteButton = document.createElement('button');
+        deleteButton.textContent = 'Delete';
+        deleteButton.addEventListener('click', () => {
+          qas.splice(index, 1);
+          renderQAs();
+        });
+
+        qaItem.appendChild(deleteButton);
+      }
 
       qaContainer.appendChild(qaItem);
     });
   }
-</script>
+</script> 
 </body>
 </html>
