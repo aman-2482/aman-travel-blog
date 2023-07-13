@@ -11,9 +11,9 @@ title: "QandA"
     .question {
       color: red;
     }
-.Answer {
-      color: red;
-    }
+.answer {
+  color: green;
+}
 button {
       background-color: #333;
       color: white;
