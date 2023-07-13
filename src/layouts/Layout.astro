@@ -53,7 +53,35 @@ const socialImageURL = new URL(
       onload="this.onload=null;this.rel='stylesheet'"
     />
 
-    <script is:inline src="/toggle-theme.js"></script>
+    <script is:inline src="/toggle-theme.js">
+    function addQuestion() {
+  var questionInput = document.getElementById("question-input");
+  var answerInput = document.getElementById("answer-input");
+
+  if (questionInput.value && answerInput.value) {
+    var qnaContainer = document.getElementById("qna-container");
+    var questionDiv = document.createElement("div");
+    questionDiv.classList.add("question");
+
+    var questionHeading = document.createElement("h3");
+    questionHeading.textContent = questionInput.value;
+
+    var answerParagraph = document.createElement("p");
+    answerParagraph.textContent = answerInput.value;
+
+    questionDiv.appendChild(questionHeading);
+    questionDiv.appendChild(answerParagraph);
+    qnaContainer.appendChild(questionDiv);
+
+    questionInput.value = "";
+    answerInput.value = "";
+  }
+}
+
+    
+    
+    
+    </script>
   </head>
   <body>
     <slot />
