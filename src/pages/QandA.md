@@ -69,7 +69,6 @@ layout: ../layouts/QandA.astro
         const qaItem = document.createElement('div');
         qaItem.appendChild(question);
         qaItem.appendChild(answer);
-
         // Check if the current user is an admin
         const isAdmin = document.getElementById('isAdmin').checked;
 
