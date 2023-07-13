@@ -2,9 +2,23 @@
 layout: ../layouts/aboutqanda.astro
 title: "QandA"
 ---
-
-Welcome to our blogging website, your ultimate destination for the latest and most captivating news from around the world. We pride ourselves on delivering up-to-the-minute updates on the trending topics that matter to you. Whether you're a news junkie, a curious mind, or simply someone who loves staying informed, we've got you covered.
-
-At our blogging platform, we understand the importance of staying ahead of the curve. That's why our team of dedicated writers and journalists works tirelessly to bring you breaking news, thought-provoking analysis, and fascinating insights from every corner of the globe. From politics to technology, entertainment to science, sports to culture – we leave no stone unturned in our quest to provide you with a diverse range of captivating stories.
-
-
+<div id="qna-section">
+  <h2>Q&A Section</h2>
+  <div id="qna-container">
+    <div class="question">
+      <h3>Question 1</h3>
+      <p>Answer 1</p>
+    </div>
+    <div class="question">
+      <h3>Question 2</h3>
+      <p>Answer 2</p>
+    </div>
+    <!-- Add more question-answer pairs as needed -->
+  </div>
+  <div id="add-question">
+    <h3>Add a Question</h3>
+    <input type="text" id="question-input" placeholder="Enter your question" />
+    <textarea id="answer-input" placeholder="Enter your answer"></textarea>
+    <button onclick="addQuestion()">Submit</button>
+  </div>
+</div>
