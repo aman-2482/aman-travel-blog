@@ -8,27 +8,29 @@ layout: ../layouts/QandA.astro
   <title>Q&A Section</title>
   <style>
     .question {
-      font-weight: bold;
-       color: red;
+      color: red;
     }
+
     .answer {
-  color: red;
-}
-button {
+      color: red;
+    }
+
+    button {
       background-color: #333;
       color: white;
       border: none;
       padding: 10px 20px;
       cursor: pointer;
     }
-button:hover {
+
+    button:hover {
       background-color: #444;
     }
-button:disabled {
+
+    button:disabled {
       background-color: #ccc;
       cursor: not-allowed;
     }
-
   </style>
 </head>
 <body>
@@ -43,7 +45,7 @@ button:disabled {
     <button type="submit">Submit</button>
   </form>
 
- <script>
+  <script>
     // Load existing questions and answers from local storage
     const savedQAs = localStorage.getItem('myBlogQAs');
     const qas = savedQAs ? JSON.parse(savedQAs) : [];
