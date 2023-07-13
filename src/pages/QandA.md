@@ -11,9 +11,6 @@ title: "QandA"
     .question {
       color: red;
     }
-.answer {
-  color: green;
-}
 button {
       background-color: #333;
       color: white;
@@ -28,6 +25,9 @@ button:disabled {
       background-color: #ccc;
       cursor: not-allowed;
     }
+    .answer {
+  color: green;
+}
 
   </style>
 </head>
