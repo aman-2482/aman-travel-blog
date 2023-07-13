@@ -10,11 +10,9 @@ layout: ../layouts/QandA.astro
     .question {
       color: red;
     }
-
     .answer {
       color: red;
     }
-
     button {
       background-color: #333;
       color: white;
@@ -22,11 +20,9 @@ layout: ../layouts/QandA.astro
       padding: 10px 20px;
       cursor: pointer;
     }
-
     button:hover {
       background-color: #444;
     }
-
     button:disabled {
       background-color: #ccc;
       cursor: not-allowed;
