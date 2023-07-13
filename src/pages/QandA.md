@@ -44,40 +44,66 @@ button:disabled {
   </form>
 
  <script>
-  function renderQAs() {
-    const qaContainer = document.getElementById('qaContainer');
-    qaContainer.innerHTML = '';
+    // Load existing questions and answers from local storage
+    const savedQAs = localStorage.getItem('myBlogQAs');
+    const qas = savedQAs ? JSON.parse(savedQAs) : [];
 
-    qas.forEach((qa, index) => {
-      const question = document.createElement('div');
-      question.classList.add('question');
-      question.textContent = `Q: ${qa.question}`;
+    function saveQAsToLocalStorage() {
+      localStorage.setItem('myBlogQAs', JSON.stringify(qas));
+    }
 
-      const answer = document.createElement('div');
-      answer.textContent = `A: ${qa.answer}`;
+    function renderQAs() {
+      const qaContainer = document.getElementById('qaContainer');
+      qaContainer.innerHTML = '';
 
-      const qaItem = document.createElement('div');
-      qaItem.appendChild(question);
-      qaItem.appendChild(answer);
+      qas.forEach((qa, index) => {
+        const question = document.createElement('div');
+        question.classList.add('question');
+        question.textContent = `Q: ${qa.question}`;
 
-      // Check if the current user is an admin
-      const isAdmin = document.getElementById('isAdmin').checked;
+        const answer = document.createElement('div');
+        answer.textContent = `A: ${qa.answer}`;
 
-      // Only show the delete button if the user is an admin
-      if (isAdmin) {
-        const deleteButton = document.createElement('button');
-        deleteButton.textContent = 'Delete';
-        deleteButton.addEventListener('click', () => {
-          qas.splice(index, 1);
-          renderQAs();
-        });
+        const qaItem = document.createElement('div');
+        qaItem.appendChild(question);
+        qaItem.appendChild(answer);
 
-        qaItem.appendChild(deleteButton);
-      }
+        // Check if the current user is an admin
+        const isAdmin = document.getElementById('isAdmin').checked;
 
-      qaContainer.appendChild(qaItem);
+        // Only show the delete button if the user is an admin
+        if (isAdmin) {
+          const deleteButton = document.createElement('button');
+          deleteButton.textContent = 'Delete';
+          deleteButton.addEventListener('click', () => {
+            qas.splice(index, 1);
+            renderQAs();
+          });
+
+          qaItem.appendChild(deleteButton);
+        }
+
+        qaContainer.appendChild(qaItem);
+      });
+    }
+
+    function addNewQA(question, answer) {
+      qas.push({ question, answer });
+      renderQAs();
+      saveQAsToLocalStorage();
+    }
+
+    const qaForm = document.getElementById('qaForm');
+    qaForm.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const questionInput = document.getElementById('questionInput');
+      const answerInput = document.getElementById('answerInput');
+      addNewQA(questionInput.value, answerInput.value);
+      questionInput.value = '';
+      answerInput.value = '';
     });
-  }
-</script> 
+
+    renderQAs();
+  </script>
 </body>
 </html>
