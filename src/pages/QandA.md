@@ -1,8 +1,3 @@
----
-import { SITE } from "@config";
-
----
-
 <!DOCTYPE html>
 <html>
 <head>
