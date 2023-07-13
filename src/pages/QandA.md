@@ -7,5 +7,4 @@ Welcome to our blogging website, your ultimate destination for the latest and mo
 
 At our blogging platform, we understand the importance of staying ahead of the curve. That's why our team of dedicated writers and journalists works tirelessly to bring you breaking news, thought-provoking analysis, and fascinating insights from every corner of the globe. From politics to technology, entertainment to science, sports to culture – we leave no stone unturned in our quest to provide you with a diverse range of captivating stories.
 
-<button id="saveButton">Save Q&A Data</button>
 
