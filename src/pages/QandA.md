@@ -2,7 +2,6 @@
 layout: ../layouts/AboutLayout.astro
 title: "QandA"
 ---
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,7 +9,7 @@ title: "QandA"
   <style>
     .answer {
     color: green;
-  }
+    }
     .question {
       color: red;
     }
