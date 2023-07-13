@@ -5,7 +5,7 @@ import Breadcrumbs from "@components/Breadcrumbs.astro";
 import Footer from "@components/Footer.astro";
 import Header from "@components/Header.astro";
 import Layout from "./Layout.astro";
-
+const { frontmatter } = Astro.props;
 ---
 
 <!DOCTYPE html>
