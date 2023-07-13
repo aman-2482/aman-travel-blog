@@ -16,7 +16,7 @@ title: "QandA"
     }
 button {
       background-color: #333;
-      color: white;
+      color: Green;
       border: none;
       padding: 10px 20px;
       cursor: pointer;
