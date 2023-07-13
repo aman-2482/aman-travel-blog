@@ -9,12 +9,11 @@ title: "QandA"
   <title>Q&A Section</title>
   <style>
     .question {
-      font-weight: bold;
       color: red;
     }
-    .answer {
-  color: red;
-}
+.answer {
+      color: red;
+    }
 button {
       background-color: #333;
       color: white;
