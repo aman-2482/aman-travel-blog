@@ -8,25 +8,27 @@ layout: ../layouts/QandA.astro
   <title>Q&A Section</title>
   <style>
     .question {
-      color: red;
+      font-weight: bold;
+       color: red;
     }
     .answer {
-      color: red;
-    }
-    button {
+  color: red;
+}
+button {
       background-color: #333;
       color: white;
       border: none;
       padding: 10px 20px;
       cursor: pointer;
     }
-    button:hover {
+button:hover {
       background-color: #444;
     }
-    button:disabled {
+button:disabled {
       background-color: #ccc;
       cursor: not-allowed;
     }
+
   </style>
 </head>
 <body>
@@ -41,7 +43,7 @@ layout: ../layouts/QandA.astro
     <button type="submit">Submit</button>
   </form>
 
-  <script>
+ <script>
     // Load existing questions and answers from local storage
     const savedQAs = localStorage.getItem('myBlogQAs');
     const qas = savedQAs ? JSON.parse(savedQAs) : [];
@@ -65,6 +67,7 @@ layout: ../layouts/QandA.astro
         const qaItem = document.createElement('div');
         qaItem.appendChild(question);
         qaItem.appendChild(answer);
+
         // Check if the current user is an admin
         const isAdmin = document.getElementById('isAdmin').checked;
 
