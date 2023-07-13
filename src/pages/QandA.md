@@ -9,6 +9,7 @@ layout: ../layouts/QandA.astro
   <style>
     .question {
       font-weight: bold;
+      font-color: orange;
     }
   </style>
 </head>
