@@ -22,7 +22,7 @@ layout: ../layouts/QandA.astro
   <form id="qaForm">
     <input type="text" id="questionInput" placeholder="Question" required>
     <input type="text" id="answerInput" placeholder="Answer" required>
-    <button type="submit">Submit</button>
+    <button type="submit" color="blue">Submit</button>
   </form>
 
   <script>
