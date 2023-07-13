@@ -9,8 +9,23 @@ layout: ../layouts/QandA.astro
   <style>
     .question {
       font-weight: bold;
-      font-color: orange;
+       color: red;
     }
+button {
+      background-color: #333;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      cursor: pointer;
+    }
+button:hover {
+      background-color: #444;
+    }
+button:disabled {
+      background-color: #ccc;
+      cursor: not-allowed;
+    }
+
   </style>
 </head>
 <body>
@@ -22,7 +37,7 @@ layout: ../layouts/QandA.astro
   <form id="qaForm">
     <input type="text" id="questionInput" placeholder="Question" required>
     <input type="text" id="answerInput" placeholder="Answer" required>
-    <button type="submit" color="blue">Submit</button>
+    <button type="submit">Submit</button>
   </form>
 
   <script>
