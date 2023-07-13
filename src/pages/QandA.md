@@ -1,3 +1,7 @@
+---
+layout: ../layouts/QandA.astro
+---
+
 <!DOCTYPE html>
 <html>
 <head>
