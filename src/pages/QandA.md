@@ -11,7 +11,7 @@ title: "QandA"
     .question {
       color: red;
     }
-.answer {
+.Answer {
       color: red;
     }
 button {
