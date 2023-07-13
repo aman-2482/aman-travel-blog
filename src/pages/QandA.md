@@ -11,6 +11,9 @@ layout: ../layouts/QandA.astro
       font-weight: bold;
        color: red;
     }
+    .answer {
+  color: red;
+}
 button {
       background-color: #333;
       color: white;
@@ -41,60 +44,28 @@ button:disabled {
   </form>
 
   <script>
-    // Load existing questions and answers from local storage
-    const savedQAs = localStorage.getItem('myBlogQAs');
-    const qas = savedQAs ? JSON.parse(savedQAs) : [];
+  function renderQAs() {
+    const qaContainer = document.getElementById('qaContainer');
+    qaContainer.innerHTML = '';
 
-    function saveQAsToLocalStorage() {
-      localStorage.setItem('myBlogQAs', JSON.stringify(qas));
-    }
+    qas.forEach((qa, index) => {
+      const question = document.createElement('div');
+      question.classList.add('question');
+      question.textContent = `Q: ${qa.question}`;
 
-    function renderQAs() {
-      const qaContainer = document.getElementById('qaContainer');
-      qaContainer.innerHTML = '';
+      const answer = document.createElement('div');
+      answer.textContent = `A: ${qa.answer}`;
 
-      qas.forEach((qa, index) => {
-        const question = document.createElement('div');
-        question.classList.add('question');
-        question.textContent = `Q: ${qa.question}`;
+      const qaItem = document.createElement('div');
+      qaItem.appendChild(question);
+      qaItem.appendChild(answer);
 
-        const answer = document.createElement('div');
-        answer.textContent = `A: ${qa.answer}`;
+      // Remove the delete button
+      qaItem.removeChild(qaItem.querySelector('button'));
 
-        const deleteButton = document.createElement('button');
-        deleteButton.textContent = 'Delete';
-        deleteButton.addEventListener('click', () => {
-          qas.splice(index, 1);
-          renderQAs();
-          saveQAsToLocalStorage();
-        });
-
-        const qaItem = document.createElement('div');
-        qaItem.appendChild(question);
-        qaItem.appendChild(answer);
-        qaItem.appendChild(deleteButton);
-
-        qaContainer.appendChild(qaItem);
-      });
-    }
-
-    function addNewQA(question, answer) {
-      qas.push({ question, answer });
-      renderQAs();
-      saveQAsToLocalStorage();
-    }
-
-    const qaForm = document.getElementById('qaForm');
-    qaForm.addEventListener('submit', (e) => {
-      e.preventDefault();
-      const questionInput = document.getElementById('questionInput');
-      const answerInput = document.getElementById('answerInput');
-      addNewQA(questionInput.value, answerInput.value);
-      questionInput.value = '';
-      answerInput.value = '';
+      qaContainer.appendChild(qaItem);
     });
-
-    renderQAs();
-  </script>
+  }
+</script>
 </body>
 </html>
