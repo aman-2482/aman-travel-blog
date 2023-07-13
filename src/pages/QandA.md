@@ -21,9 +21,6 @@ button {
       padding: 10px 20px;
       cursor: pointer;
     }
-button:hover {
-      background-color: #444;
-    }
 button:disabled {
       background-color: #ccc;
       cursor: not-allowed;
