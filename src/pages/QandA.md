@@ -10,7 +10,26 @@ title: "QandA"
   <style>
     .question {
       font-weight: bold;
+      color: red;
     }
+    .answer {
+  color: red;
+}
+button {
+      background-color: #333;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      cursor: pointer;
+    }
+button:hover {
+      background-color: #444;
+    }
+button:disabled {
+      background-color: #ccc;
+      cursor: not-allowed;
+    }
+
   </style>
 </head>
 <body>
