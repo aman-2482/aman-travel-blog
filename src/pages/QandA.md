@@ -8,6 +8,9 @@ title: "QandA"
 <head>
   <title>Q&A Section</title>
   <style>
+    .answer {
+    color: green;
+  }
     .question {
       color: red;
     }
@@ -25,10 +28,7 @@ button:disabled {
       background-color: #ccc;
       cursor: not-allowed;
     }
-    .answer {
-  color: green;
-}
-
+    
   </style>
 </head>
 <body>
