@@ -27,7 +27,6 @@ Unleash your freelance potential with powerhouse platforms like Upwork, Fiverr, 
 
 ## 1. Fiverr:
 
-![](https://e1.pxfuel.com/desktop-wallpaper/528/461/desktop-wallpaper-fiverr-design-fiverr.jpg)
 
 Fiverr is a popular freelancing website that offers a unique platform for freelancers to showcase their skills and expertise to a global client base. Here's a step-by-step guide on how to work on Fiverr:
 
@@ -55,7 +54,7 @@ Remember, success on Fiverr depends on providing high-quality services, maintain
 
 
 ## 2. Upwork:
-![](https://logos-world.net/wp-content/uploads/2021/04/Upwork-Symbol.png)
+
 
 Upwork is a leading freelancing website that connects businesses with talented professionals across various industries. Here's a detailed guide on how to work on Upwork:
 
@@ -82,7 +81,7 @@ Upwork is a leading freelancing website that connects businesses with talented p
 By following these steps and consistently delivering outstanding work, Upwork can become a valuable platform for your freelance career, connecting you with clients from around the world and opening doors to exciting opportunities.
 
 ## 3. Freelancer:
-![](https://www.seekpng.com/png/detail/278-2782836_freelancer-logo-png-freelancer-com-logo.png)
+
 Freelancer.com is a global freelancing platform that connects freelancers with clients seeking various services. Here's a detailed guide on how to work on Freelancer:
 
 1. Sign Up: Start by creating an account on Freelancer.com. Provide your basic information and set up your profile, including your skills, experience, and portfolio.
@@ -108,7 +107,7 @@ Freelancer.com is a global freelancing platform that connects freelancers with c
 By following these steps and consistently delivering excellent work, Freelancer.com can be a valuable platform for your freelance career. Take advantage of the diverse range of projects and clients available, build your reputation, and unlock opportunities for growth and success.
 
 ## 4.  Toptal :
-![](https://bs-uploads.toptal.io/blackfish-uploads/public-files/toptal-logo-f2f871d16892f5b8859b0822fa740cc3.png)
+
 Toptal is an exclusive freelancing platform that connects businesses with top-tier freelancers in the fields of software development, design, and finance. Here's a detailed guide on how to work on Toptal:
 
 1. Apply and Get Accepted: Toptal maintains high standards for freelancers. Start by applying to become a Toptal freelancer. The application process includes technical assessments, interviews, and a review of your work history and expertise. If accepted, you join an elite network of freelancers.
@@ -132,7 +131,7 @@ Toptal is an exclusive freelancing platform that connects businesses with top-ti
 Toptal's unique screening process and focus on top-tier talent make it a platform renowned for its high-quality freelancers. By leveraging your expertise, providing exceptional work, and cultivating strong client relationships, you can thrive and grow your freelance career on Toptal.
 
 ## 5. Jooble:
-![](https://seeklogo.com/images/J/jooble-logo-6745AD1FBB-seeklogo.com.png)
+
 Jobble is a dynamic freelancing platform that connects businesses with skilled freelancers across various industries. Here's a detailed guide on how to work on Jobble:
 
 1. Sign Up: Start by creating an account on Jobble. Provide your basic information, including your skills, experience, and availability.

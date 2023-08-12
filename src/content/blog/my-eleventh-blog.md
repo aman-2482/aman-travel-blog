@@ -36,7 +36,6 @@ description: ' In this insightful blog post, we delve into the world of fitness 
 ## Introduction
 
 
-![](https://english.cdn.zeenews.com/sites/default/files/2014/10/12/282031-fit.jpg)
 
 
 

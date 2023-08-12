@@ -24,7 +24,6 @@ description: 'In this thought-provoking blog post, we address a range of mental 
 ---
 ## Introduction
 
-![](https://images.unsplash.com/photo-1564121211835-e88c852648ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVudGFsJTIwaGVhbHRofGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60)
 
 Mental health is a crucial aspect of our well-being, yet it remains shrouded in stigma and silence. It's time to break the taboo and have open, honest conversations about mental health matters that affect millions of people worldwide. In this blog post, we shed light on key topics surrounding mental health, aiming to raise awareness, foster understanding, and encourage compassion. Join us as we delve into the depths of these important issues and work towards building a more supportive and inclusive society.
 
