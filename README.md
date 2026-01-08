@@ -94,10 +94,8 @@ If you'd like to add a post:
 
 This repository includes a `LICENSE` file. Check it for the project's license terms.
 
-## Notes / Assumptions
-
-- This README updates the placeholder content into a practical guide. It assumes the standard `npm` workflow; if you use `pnpm` or `yarn`, translate the commands accordingly.
 
 ## Contact
 
 If you want changes or need the README tailored for a specific host or CI, tell me which provider and I can add deployment steps.
+
