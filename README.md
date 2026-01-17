@@ -95,7 +95,3 @@ If you'd like to add a post:
 This repository includes a `LICENSE` file. Check it for the project's license terms.
 
 
-## Contact
-
-If you want changes or need the README tailored for a specific host or CI, tell me which provider and I can add deployment steps.
-
