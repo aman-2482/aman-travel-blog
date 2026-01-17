@@ -90,8 +90,6 @@ If you'd like to add a post:
 2. Add frontmatter (title, date, tags, description, etc.).
 3. Add images to `public/photos` and reference them from the Markdown.
 
-## License
 
-This repository includes a `LICENSE` file. Check it for the project's license terms.
 
 
