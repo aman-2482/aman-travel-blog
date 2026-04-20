@@ -18,8 +18,6 @@ description: "A practical anti-fraud checklist for UPI users, including red flag
 
 Never approve a collect request you did not initiate, never share OTP or UPI PIN, and verify payment intent before tapping confirm. Most fraud losses are preventable with a 10-second check.
 
-![UPI safety checklist illustration](/photos/first%20blog/H1.png)
-
 If you remember only one line, remember this: receiving money never requires entering your UPI PIN. The PIN is only for sending money.
 
 ## Why UPI fraud is rising
@@ -64,8 +62,6 @@ If any one answer feels wrong, stop the transaction.
 3. Speak amount aloud before entering PIN.
 4. Recheck last 4 digits of account/UPI ID.
 5. Approve only after final confirmation screen.
-
-![Digital fraud awareness visual](/photos/first%20blog/aaa%20(1).png)
 
 ## What to do in the first 15 minutes after a fraud event
 

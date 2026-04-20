@@ -18,8 +18,6 @@ description: "A practical guide to using AI agents in sales, support, and operat
 
 AI agents are most useful for repetitive workflows: lead qualification, support triage, and weekly reporting. Start with one process, define success metrics, and keep a human approval step for customer-facing decisions.
 
-![AI workflow dashboard concept](/photos/first%20blog/H2.png)
-
 Most small businesses do not fail with AI because of tools. They fail because they automate unclear processes. Clean process first, then add automation.
 
 ## Why this trend matters now
@@ -42,8 +40,6 @@ In 2026, AI tooling is cheaper and more integrated with common business apps. Sm
 ## Mini case example
 
 A 4-person ecommerce team used one support agent to classify tickets into refund, shipping, and product questions. Average first response time dropped from 8 hours to 2 hours while maintaining human review before send.
-
-![Automation and productivity visual](/photos/first%20blog/aaa%20(2).png)
 
 ## 30-day rollout plan
 

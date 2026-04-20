@@ -18,8 +18,6 @@ description: "A grounded look at climate technologies with strong near-term adop
 
 The most scalable climate tech in 2026 is practical, cost-reducing, and infrastructure-friendly: grid software, heat pumps, battery optimization, and industrial efficiency tools.
 
-![Climate innovation overview](/photos/first%20blog/H1.png)
-
 The strongest solutions share one trait: they lower both emissions and operating costs. This dual value is why adoption is accelerating.
 
 ## What is gaining traction
@@ -48,8 +46,6 @@ Digital monitoring of heat, pressure, and idle machinery helps manufacturers det
 - They cut costs while reducing emissions.
 - They fit into existing systems with lower capex.
 - They provide measurable KPIs for compliance and ESG reporting.
-
-![Sustainability execution visual](/photos/first%20blog/H2.png)
 
 ## Adoption checklist for teams
 

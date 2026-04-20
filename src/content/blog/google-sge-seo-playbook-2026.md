@@ -18,8 +18,6 @@ description: "How to structure content for search and AI answers using entity cl
 
 To perform in both classic search and AI-generated answers, publish source-backed content with clear headings, direct answers near the top, and structured data that identifies entities and intent.
 
-![Search strategy planning visual](/photos/first%20blog/H3.png)
-
 Think of modern visibility as two layers: ranking and referencing. Ranking gets clicks; referencing gets your brand cited inside AI-generated responses.
 
 ## The shift from SEO-only to SEO plus GEO
@@ -51,8 +49,6 @@ Traditional ranking factors still matter, but generative answer engines prioriti
 5. Refresh titles and descriptions for intent match.
 6. Remove thin or overlapping pages.
 7. Track impressions, citations, and CTR changes.
-
-![SEO and GEO checklist visual](/photos/first%20blog/aaa%20(3).png)
 
 ## GEO checklist
 

@@ -18,8 +18,6 @@ description: "Key creator-economy shifts in 2026, including niche communities, m
 
 Creators growing fastest in 2026 focus on niche authority, direct audience ownership through newsletters or communities, and lightweight AI workflows for editing, repurposing, and planning.
 
-![Creator growth strategy visual](/photos/first%20blog/H4.png)
-
 Audience trust is now the biggest growth moat. Viral reach can help discovery, but repeat attention drives sustainable income.
 
 ## Top trends
@@ -41,8 +39,6 @@ Audience trust is now the biggest growth moat. Viral reach can help discovery, b
 - Core free content to drive discovery.
 - Mid-tier digital products or memberships.
 - Premium consulting, workshops, or brand partnerships.
-
-![Audience to revenue funnel visual](/photos/first%20blog/aaa%20(4).png)
 
 ## Execution framework
 
