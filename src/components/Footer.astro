@@ -15,6 +15,11 @@ const { noMarginTop = false } = Astro.props;
   <Hr noPadding />
   <div class="footer-wrapper">
     <Socials centered />
+    <nav class="footer-links" aria-label="Footer links">
+      <a href="/privacy-policy">Privacy Policy</a>
+      <span aria-hidden="true">|</span>
+      <a href="/contact">Contact</a>
+    </nav>
     <div class="copyright-wrapper">
       <span>Copyright &#169; {currentYear}</span>
       <span class="separator">&nbsp;|&nbsp;</span>
@@ -38,6 +43,12 @@ const { noMarginTop = false } = Astro.props;
   }
   .copyright-wrapper {
     @apply my-2 flex flex-col items-center whitespace-nowrap sm:flex-row;
+  }
+  .footer-links {
+    @apply my-2 flex items-center gap-2 text-sm;
+  }
+  .footer-links a {
+    @apply hover:text-skin-accent;
   }
   .separator {
     @apply hidden sm:inline;

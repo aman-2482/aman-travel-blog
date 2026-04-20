@@ -19,9 +19,26 @@ const { Content } = await post.render();
 
 const ogUrl = new URL(ogImage ? ogImage : `${title}.png`, Astro.url.origin)
   .href;
+const articleSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  headline: title,
+  description,
+  datePublished: pubDatetime,
+  dateModified: pubDatetime,
+  author: {
+    "@type": "Person",
+    name: author,
+  },
+  mainEntityOfPage: Astro.url.href,
+  image: ogUrl,
+  keywords: tags.join(", "),
+  inLanguage: "en",
+});
 ---
 
 <Layout title={title} author={author} description={description} ogImage={ogUrl}>
+  <script type="application/ld+json" set:html={articleSchema}></script>
   <Header />
   <div class="mx-auto flex w-full max-w-3xl justify-start px-2">
     <button
