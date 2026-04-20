@@ -11,7 +11,7 @@ This repository is an Astro-based travel blog website built on the "Astro Paper"
 
 ## Prerequisites
 
-- Node.js (recommended 18.x or newer)
+- Node.js (recommended 24.x)
 - npm (comes with Node) or any compatible package manager
 
 ## Install
