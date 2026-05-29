@@ -146,12 +146,25 @@ Successful rollouts involve operations, finance, and facilities teams from the s
 - Align operations, finance, and facilities early.
 - Scale in phases to protect reliability.
 
+## Small team action plan
+
+Start with one measurable site, define a 90-day target, and document results. A single clear win often unlocks budget for broader rollout.
+Share results internally to build confidence and operational support.
+
 ## Procurement questions to ask vendors
 
 - What data sources are required and who owns them?
 - How is ROI measured and reported?
 - What level of maintenance and training is included?
 - What happens if the pilot does not meet targets?
+
+## Due diligence checklist
+
+- Confirm data ownership and exit terms.
+- Validate claims with a small proof of value.
+- Review cybersecurity and access controls.
+- Ensure the solution has clear operational ownership.
+- Document KPIs before the pilot begins.
 
 ## FAQ
 

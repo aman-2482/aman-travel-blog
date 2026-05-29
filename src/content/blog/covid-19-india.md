@@ -112,6 +112,18 @@ Local rules usually take priority for day-to-day decisions such as travel, event
 
 If you are traveling within India, check state-level advisories and transport requirements before departure. Keep digital copies of any required documentation and allow extra time for screenings at airports or stations.
 
+## If you feel unwell
+
+- Limit close contact with others and rest.
+- Follow local medical guidance for testing or care.
+- Inform close contacts if you receive a confirmed diagnosis.
+
+## Vaccination reminders
+
+Follow local guidance on eligibility and booster schedules. If you are unsure, consult official health sources rather than informal advice.
+Keep a digital record of vaccination details for travel or workplace requirements.
+Set reminders for follow-up doses if they are recommended.
+
 ## Conclusion:
 
 Staying informed about the latest updates on the COVID-19 pandemic is essential, both globally and within India. While India has faced significant challenges, efforts are being made to control the spread of the virus, ensure vaccination availability, and mitigate the impact on public health and the economy.

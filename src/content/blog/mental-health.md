@@ -126,6 +126,18 @@ These small practices reduce vulnerability to burnout and anxiety.
 - Encourage breaks and realistic workloads.
 - Train managers to respond with empathy.
 
+## A short self-reflection check
+
+- Have I slept and eaten well this week?
+- Am I avoiding people or activities I usually enjoy?
+- Do I need to ask for help with one specific problem?
+
+Honest answers can guide small, practical next steps.
+
+## Resource planning
+
+Save contact details for local counseling services or helplines before you need them. Having information ready reduces friction when support is required.
+
 ## Conclusion:
 
 By breaking the taboo and engaging in open conversations about mental health matters, we can create a society that truly values and supports mental well-being. Together, let's challenge the stigma, educate ourselves and others, and advocate for accessible and inclusive mental health care. By fostering understanding, compassion, and empathy, we can make a positive difference in the lives of individuals and communities, paving the way for a future where mental health matters are openly discussed and everyone can seek the help they need without fear or shame.

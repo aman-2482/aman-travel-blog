@@ -139,12 +139,24 @@ Update pages when facts change or performance declines. At minimum, review core 
 
 Instead of starting with a long history, open with a direct response to the query. A two-sentence answer followed by supporting sections improves readability and increases the chance of being referenced by AI summaries.
 
+## Pre-publish QA checklist
+
+- Does the intro answer the main question directly?
+- Are key claims supported with a source or date?
+- Is there one clear primary topic for the page?
+- Do internal links point to related supporting pages?
+- Is the author and update date visible?
+
 ## GEO checklist
 
 - Use precise nouns for products, places, and people.
 - Add factual references when making claims.
 - Keep paragraphs concise and non-ambiguous.
 - Include one canonical page per topic cluster.
+
+## Content audit cadence
+
+Review high-traffic pages monthly and secondary pages quarterly. Small, regular updates preserve rankings better than large, infrequent rewrites.
 
 ## Common GEO errors
 

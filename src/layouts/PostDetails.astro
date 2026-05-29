@@ -16,7 +16,7 @@ const { post } = Astro.props;
 const { title, author, description, ogImage, pubDatetime, tags } = post.data;
 
 const { Content } = await post.render();
-const minWordsForAds = 700;
+const minWordsForAds = 900;
 const wordCount = post.body ? post.body.split(/\s+/).filter(Boolean).length : 0;
 const showAds = wordCount >= minWordsForAds;
 

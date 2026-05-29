@@ -100,6 +100,10 @@ Be cautious with suspicious media, verify sources before sharing, and use tools 
 
 Small choices at the user level create large collective impact.
 
+## What organizations can do
+
+Adopt clear policies for AI use, train staff on data handling, and require review for high-risk outputs. Transparency and accountability reduce risk while supporting innovation.
+
 ## Conclusion:
 
 Artificial Intelligence has enormous potential to shape our world for the better, but we must not turn a blind eye to its deadly features. Autonomous weapons, deepfakes, uncontrolled development, cybersecurity vulnerabilities, and socio-economic impacts demand our attention, regulation, and ethical considerations. It is crucial to strike a balance between embracing the benefits of AI and ensuring the responsible and safe use of this powerful technology. By being aware, proactive, and collectively addressing these challenges, we can harness the true potential of AI while mitigating the risks it presents to our society.

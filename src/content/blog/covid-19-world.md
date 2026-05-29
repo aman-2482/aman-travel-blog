@@ -126,6 +126,17 @@ National health ministries, the World Health Organization, and peer-reviewed med
 
 Set one day each week to review official updates and plan around any local changes. Avoid constant checking, which can increase anxiety without improving decisions. Keep a short list of reliable sources, and share updates with family members who rely on you for guidance.
 
+## Community protection basics
+
+Protecting others is often as important as protecting yourself. Small acts like staying home when ill and notifying close contacts reduce spread and protect vulnerable groups.
+Community awareness improves outcomes during local surges.
+
+## If you need care
+
+- Follow local health guidance for testing and treatment.
+- Seek medical advice if symptoms are persistent or worsening.
+- Avoid relying on unverified home remedies.
+
 ## Conclusion:
 
 Staying informed about the global updates and developments on the COVID-19 pandemic is vital for understanding the overall landscape and making informed decisions. The situation continues to evolve, and new challenges may arise in different parts of the world.

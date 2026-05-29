@@ -122,6 +122,17 @@ No. Apps can help with consistency, but simple breathing or quiet reflection is 
 
 Writing a few lines can clarify priorities and calm the mind.
 
+## 7-day starter plan
+
+Day 1-2: Two minutes of breathing before bed.
+Day 3-4: Five minutes of mindful walking.
+Day 5-6: Ten minutes of focused attention practice.
+Day 7: Reflect on what helped and repeat next week.
+
+## Digital boundaries
+
+Set one phone-free window each day, such as the first 30 minutes after waking or the last 30 minutes before bed. These boundaries reduce stress and improve focus.
+
 ## Conclusion:
 
 In a world that often feels overwhelming, mindfulness offers a powerful antidote to stress and a pathway to improved well-being. By incorporating mindfulness into our daily lives, we can cultivate a greater sense of peace, resilience, and happiness. Whether through formal meditation practices, mindful breathing exercises, or simply bringing conscious awareness to our daily activities, each moment presents an opportunity to reconnect with ourselves and find inner calm.

@@ -120,6 +120,11 @@ Start small to control costs. Most tools charge by volume, so measure usage befo
 - Set a human approval step.
 - Review outputs for one week before scaling.
 
+## Pilot success criteria
+
+Define success in advance, such as a 30 percent reduction in response time or a specific error-rate threshold. Clear targets reduce debate and speed decisions.
+Document the baseline so improvements are easy to verify.
+
 ## FAQ
 
 ### Can AI agents replace human staff?
@@ -139,6 +144,13 @@ For most small businesses, the best use is augmentation. AI handles repetitive t
 - Store logs for auditing and quality review.
 - Define what the agent is not allowed to do.
 - Review performance monthly and update rules.
+
+## Risk register starter
+
+- Accuracy risk: define a human approval threshold.
+- Data privacy risk: minimize sensitive fields.
+- Brand risk: set tone and escalation rules.
+- Cost risk: monitor usage and set alerts.
 
 ## FAQ
 

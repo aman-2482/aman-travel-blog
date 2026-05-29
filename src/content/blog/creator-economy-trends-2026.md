@@ -156,6 +156,10 @@ High-performing creators use simple standards before publishing:
 
 These standards improve trust and retention over time.
 
+## Audience feedback loop
+
+Once per month, review top comments, replies, and email questions. Use them to refine future topics and update existing posts that are no longer clear.
+
 ## Key takeaways
 
 - Niche authority beats broad content.
@@ -166,6 +170,10 @@ These standards improve trust and retention over time.
 ## Repurposing workflow
 
 Turn one core idea into multiple formats. A long-form piece becomes short clips, a newsletter summary, and a community prompt. This increases reach without adding large production time.
+
+## Content maintenance
+
+Evergreen posts should be reviewed quarterly. Update examples, refresh data, and improve internal links. This keeps your catalog relevant and increases long-term discovery.
 
 ## FAQ
 
