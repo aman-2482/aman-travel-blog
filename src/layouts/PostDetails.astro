@@ -16,6 +16,9 @@ const { post } = Astro.props;
 const { title, author, description, ogImage, pubDatetime, tags } = post.data;
 
 const { Content } = await post.render();
+const minWordsForAds = 700;
+const wordCount = post.body ? post.body.split(/\s+/).filter(Boolean).length : 0;
+const showAds = wordCount >= minWordsForAds;
 
 const ogUrl = new URL(ogImage ? ogImage : `${title}.png`, Astro.url.origin)
   .href;
@@ -37,12 +40,18 @@ const articleSchema = JSON.stringify({
 });
 ---
 
-<Layout title={title} author={author} description={description} ogImage={ogUrl}>
+<Layout
+  title={title}
+  author={author}
+  description={description}
+  ogImage={ogUrl}
+  showAds={showAds}
+>
   <script type="application/ld+json" set:html={articleSchema}></script>
   <Header />
   <div class="mx-auto flex w-full max-w-3xl justify-start px-2">
     <button
-      class="focus-outline mt-8 mb-2 flex hover:opacity-75"
+      class="focus-outline mb-2 mt-8 flex hover:opacity-75"
       onclick="history.back()"
     >
       <svg xmlns="http://www.w3.org/2000/svg"

@@ -6,12 +6,14 @@ export interface Props {
   author?: string;
   description?: string;
   ogImage?: string;
+  showAds?: boolean;
 }
 const {
   title = SITE.title,
   author = SITE.author,
   description = SITE.desc,
   ogImage = SITE.ogImage,
+  showAds = false,
 } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const socialImageURL = new URL(
@@ -40,6 +42,7 @@ const websiteSchema = JSON.stringify({
   },
 });
 ---
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -54,7 +57,11 @@ const websiteSchema = JSON.stringify({
     <meta name="description" content={description} />
     <meta name="author" content={author} />
     <meta name="robots" content="index, follow, max-image-preview:large" />
-    <meta name="google-adsense-account" content="ca-pub-3060389904105062" />
+    {
+      showAds && (
+        <meta name="google-adsense-account" content="ca-pub-3060389904105062" />
+      )
+    }
     <!-- Open Graph / Facebook -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
@@ -77,17 +84,16 @@ const websiteSchema = JSON.stringify({
       onload="this.onload=null;this.rel='stylesheet'"
     />
 
-    <script is:inline src="/toggle-theme.js">
-    
-    
-    
-    
-    </script>
-    <script
-      async
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3060389904105062"
-      crossorigin="anonymous"
-    ></script>
+    <script is:inline src="/toggle-theme.js"></script>
+    {
+      showAds && (
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3060389904105062"
+          crossorigin="anonymous"
+        />
+      )
+    }
     <script type="application/ld+json" set:html={websiteSchema}></script>
   </head>
   <body>
